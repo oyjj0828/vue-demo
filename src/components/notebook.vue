@@ -62,7 +62,7 @@
 
 </script>
 
-<style>
+<style scoped>
 
 ul{
     list-style-type: none;
@@ -105,7 +105,7 @@ ul>li{
 
 .btn_style{
     background-color: rgb(0, 182, 214);
-    border-radius: 10%;
+    border-radius: 5px;
     border:solid 1px black;
     margin-bottom: 3px;
     cursor:pointer;
